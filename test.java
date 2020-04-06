@@ -6,6 +6,6 @@ public class Test{
 
 		System.out.println("master add");
 		System.out.println("Hotfix add2");
-
+		System.out.println("clone fix");
 	}
 }
